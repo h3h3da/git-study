@@ -1,5 +1,6 @@
 ---
 author: lcz
+toc: true
 comment: I will to be a master of git!
 descript: git study is fun!
 ---
